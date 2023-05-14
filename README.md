@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" src="https://pcit.coding.net/p/khs1994-docker/d/public/git/raw/master/donate.png">
+<img width="300" src="https://github.com/khs1994/donate/blob/master/zan.jpg?raw=true">
 </p>
 
 <p align="center"><strong>如果我的开源项目对你有所帮助，可以使用微信赞赏</strong></p>
